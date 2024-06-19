@@ -1,0 +1,4 @@
+games/
+emulators/
+.venv/
+__pycache__/

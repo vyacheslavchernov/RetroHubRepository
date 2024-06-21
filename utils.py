@@ -17,7 +17,7 @@ def collect_all_titles():
             collected_titles.append(
                 {
                     "title": d["about"]["title"],
-                    "path" : game
+                    "id" : game
                 }
             )
 
